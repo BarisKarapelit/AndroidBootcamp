@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Build an Interactive"
+rootProject.name = "Layouts"

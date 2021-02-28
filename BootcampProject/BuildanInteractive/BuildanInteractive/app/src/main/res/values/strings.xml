@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Build an Interactive</string>
+    <string name="degistir">Degistir</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="data">Data :</string>
+    <string name="button">Button</string>
+    <string name="send">Send</string>
+    <string name="textview">TextView</string>
+</resources>
